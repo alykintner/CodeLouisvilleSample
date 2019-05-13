@@ -1,15 +1,20 @@
-
+@import url('https://fonts.googleapis.com/css?family=Oswald|Petit+Formal+Script');
 
 body {
     background-color:blanchedalmond;
 }
 
 h1 {
-    font-family:impact;
+    font-family:petit formal script;
     font-size:50px;
     letter-spacing:0px;
     text-align:center;
     color:#000;
-    text-transform:uppercase;
+}
 
+.site-title {
+    background-color:#f6f6f6;
+    border:2px dotted coral;
+    width:50%;
+    margin:auto;
 }
